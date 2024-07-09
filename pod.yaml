@@ -7,4 +7,6 @@ spec:
   - name: flaskapp
     image: jth7947/flaskapp:latest
     ports:
-    - containerPort: 80
+    - containerPort: 5000
+  imagePullSecrets:
+    - name: docker-pull-secret
