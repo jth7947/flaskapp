@@ -4,7 +4,7 @@ metadata:
   name: flask
 spec:
   containers:
-  - name: flask
-    image: jth7947/flaskapp:v2.0.0
+  - name: flaskapp
+    image: jth7947/flaskapp:latest
     ports:
     - containerPort: 80
