@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f5bc93f2-df0a-4b1a-ab9e-2b0203fc7d26/resourceGroups/RG10/providers/Microsoft.Web/sites/webappjth10fromvscode",
+    "appService.deploySubpath": "."
+}
